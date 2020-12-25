@@ -70,4 +70,7 @@ export default {
     dir: 'docs',
     fallback: '404.html'
   },
+  router: {
+    base: '/lomy/'
+  },
 }
