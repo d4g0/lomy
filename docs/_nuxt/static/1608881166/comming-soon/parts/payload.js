@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/comming-soon/parts", {data:[{resource:"parts "}],fetch:[],mutations:[]});

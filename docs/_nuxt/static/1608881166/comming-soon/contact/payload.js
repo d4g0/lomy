@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/comming-soon/contact", {data:[{resource:"contact "}],fetch:[],mutations:[]});
